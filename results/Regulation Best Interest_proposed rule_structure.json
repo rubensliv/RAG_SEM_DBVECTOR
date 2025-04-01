@@ -1,0 +1,466 @@
+[
+  {
+    "title": "Preface",
+    "start_index": 1,
+    "end_index": 6
+  },
+  {
+    "title": "INTRODUCTION",
+    "start_index": 6,
+    "end_index": 12,
+    "child_nodes": [
+      {
+        "title": "Background",
+        "start_index": 12,
+        "end_index": 22,
+        "child_nodes": [
+          {
+            "title": "Evaluation of Standards of Conduct Applicable to Investment Advice",
+            "start_index": 22,
+            "end_index": 26
+          },
+          {
+            "title": "DOL Rulemaking",
+            "start_index": 26,
+            "end_index": 32
+          },
+          {
+            "title": "Statement by Chairman Clayton",
+            "start_index": 32,
+            "end_index": 36
+          }
+        ]
+      },
+      {
+        "title": "General Objectives of Proposed Approach",
+        "start_index": 36,
+        "end_index": 44
+      }
+    ]
+  },
+  {
+    "title": "DISCUSSION OF REGULATION BEST INTEREST",
+    "start_index": 44,
+    "end_index": 44,
+    "child_nodes": [
+      {
+        "title": "Overview of Regulation Best Interest",
+        "start_index": 44,
+        "end_index": 50
+      },
+      {
+        "title": "Best Interest, Generally",
+        "start_index": 50,
+        "end_index": 58,
+        "child_nodes": [
+          {
+            "title": "Consistency with Other Approaches",
+            "start_index": 58,
+            "end_index": 66
+          },
+          {
+            "title": "Request for Comment on the Best Interest Obligation",
+            "start_index": 66,
+            "end_index": 71
+          }
+        ]
+      },
+      {
+        "title": "Key Terms and Scope of Best Interest Obligation",
+        "start_index": 71,
+        "end_index": 71,
+        "child_nodes": [
+          {
+            "title": "Natural Person who is an Associated Person",
+            "start_index": 71,
+            "end_index": 72
+          },
+          {
+            "title": "When Making a Recommendation, At Time Recommendation is Made",
+            "start_index": 72,
+            "end_index": 82
+          },
+          {
+            "title": "Any Securities Transaction or Investment Strategy",
+            "start_index": 82,
+            "end_index": 83
+          },
+          {
+            "title": "Retail Customer",
+            "start_index": 83,
+            "end_index": 90
+          },
+          {
+            "title": "Request for Comment on Key Terms and Scope of Best Interest Obligation",
+            "start_index": 90,
+            "end_index": 96
+          }
+        ]
+      },
+      {
+        "title": "Components of Regulation Best Interest",
+        "start_index": 96,
+        "end_index": 97,
+        "child_nodes": [
+          {
+            "title": "Disclosure Obligation",
+            "start_index": 97,
+            "end_index": 133
+          },
+          {
+            "title": "Care Obligation",
+            "start_index": 133,
+            "end_index": 166
+          },
+          {
+            "title": "Conflict of Interest Obligations",
+            "start_index": 166,
+            "end_index": 196
+          }
+        ]
+      },
+      {
+        "title": "Recordkeeping and Retention",
+        "start_index": 196,
+        "end_index": 199
+      },
+      {
+        "title": "Whether the Exercise of Investment Discretion Should be Viewed as Solely Incidental to the Business of a Broker or Dealer",
+        "start_index": 199,
+        "end_index": 209
+      }
+    ]
+  },
+  {
+    "title": "REQUEST FOR COMMENT",
+    "start_index": 209,
+    "end_index": 210,
+    "child_nodes": [
+      {
+        "title": "Generally",
+        "start_index": 210,
+        "end_index": 212
+      },
+      {
+        "title": "Interactions with Other Standards of Conduct",
+        "start_index": 212,
+        "end_index": 214
+      }
+    ]
+  },
+  {
+    "title": "ECONOMIC ANALYSIS",
+    "start_index": 214,
+    "end_index": 214,
+    "child_nodes": [
+      {
+        "title": "Introduction, Primary Goals of Proposed Regulations and Broad Economic Considerations",
+        "start_index": 214,
+        "end_index": 214,
+        "child_nodes": [
+          {
+            "title": "Introduction and Primary Goals of Proposed Regulation",
+            "start_index": 214,
+            "end_index": 215
+          },
+          {
+            "title": "Broad Economic Considerations",
+            "start_index": 215,
+            "end_index": 225
+          }
+        ]
+      },
+      {
+        "title": "Economic Baseline",
+        "start_index": 225,
+        "end_index": 225,
+        "child_nodes": [
+          {
+            "title": "Market for Advice Services",
+            "start_index": 225,
+            "end_index": 246
+          },
+          {
+            "title": "Regulatory Baseline",
+            "start_index": 246,
+            "end_index": 255
+          }
+        ]
+      },
+      {
+        "title": "Benefits, Costs, and Effects on Efficiency, Competition, and Capital Formation",
+        "start_index": 255,
+        "end_index": 258,
+        "child_nodes": [
+          {
+            "title": "Benefits",
+            "start_index": 258,
+            "end_index": 272
+          },
+          {
+            "title": "Costs",
+            "start_index": 272,
+            "end_index": 275,
+            "child_nodes": [
+              {
+                "title": "Standard of Conduct Defined as Best Interest",
+                "start_index": 275,
+                "end_index": 275,
+                "child_nodes": [
+                  {
+                    "title": "Operational Costs",
+                    "start_index": 275,
+                    "end_index": 277
+                  },
+                  {
+                    "title": "Programmatic Costs",
+                    "start_index": 278,
+                    "end_index": 280
+                  }
+                ]
+              },
+              {
+                "title": "Disclosure Obligation",
+                "start_index": 280,
+                "end_index": 286
+              },
+              {
+                "title": "Obligation to Exercise Reasonable Diligence, Care, Skill, and Prudence in Making a Recommendation",
+                "start_index": 286,
+                "end_index": 290
+              },
+              {
+                "title": "Obligation to Establish, Maintain, and Enforce Written Policies and Procedures Reasonably Designed to Identify and at a Minimum Disclose, or Eliminate, All Material Conflicts of Interest Associated with a Recommendation",
+                "start_index": 290,
+                "end_index": 295,
+                "child_nodes": [
+                  {
+                    "title": "Eliminate Material Conflicts of Interest Associated with a Recommendation",
+                    "start_index": 295,
+                    "end_index": 297
+                  },
+                  {
+                    "title": "At a Minimum Disclose Material Conflicts of Interest Associated with a Recommendation",
+                    "start_index": 297,
+                    "end_index": 299
+                  }
+                ]
+              },
+              {
+                "title": "Obligation to Establish, Maintain, and Enforce Written Policies and Procedures Reasonably Designed to Identify and Disclose and Mitigate, or Eliminate, Material Conflicts of Interest Arising from Financial Incentives Associated with a Recommendation",
+                "start_index": 299,
+                "end_index": 300,
+                "child_nodes": [
+                  {
+                    "title": "Eliminate Material Conflicts Arising from Financial Incentives Associated with a Recommendation",
+                    "start_index": 300,
+                    "end_index": 304
+                  },
+                  {
+                    "title": "Disclose and Mitigate Material Conflicts of Interest Arising from Financial Incentives Associated with a Recommendation",
+                    "start_index": 304,
+                    "end_index": 316
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Effects on Efficiency, Competition, and Capital Formation",
+        "start_index": 316,
+        "end_index": 324
+      },
+      {
+        "title": "Reasonable Alternatives",
+        "start_index": 324,
+        "end_index": 325,
+        "child_nodes": [
+          {
+            "title": "Disclosure-Only Alternative",
+            "start_index": 325,
+            "end_index": 327
+          },
+          {
+            "title": "Principles-Based Standard of Conduct Obligation",
+            "start_index": 327,
+            "end_index": 328
+          },
+          {
+            "title": "A Fiduciary Standard for Broker-Dealers",
+            "start_index": 328,
+            "end_index": 332
+          },
+          {
+            "title": "Enhanced Standards Akin to Conditions of the BIC Exemption",
+            "start_index": 332,
+            "end_index": 335
+          }
+        ]
+      },
+      {
+        "title": "Request for Comment",
+        "start_index": 335,
+        "end_index": 338
+      }
+    ]
+  },
+  {
+    "title": "PAPERWORK REDUCTION ACT ANALYSIS",
+    "start_index": 338,
+    "end_index": 340,
+    "child_nodes": [
+      {
+        "title": "Respondents Subject to Proposed Regulation Best Interest and Proposed Amendments to Rule 17a-3(a)(25), Rule 17a-4(e)(5)",
+        "start_index": 340,
+        "end_index": 340,
+        "child_nodes": [
+          {
+            "title": "Broker-Dealers",
+            "start_index": 340,
+            "end_index": 340
+          },
+          {
+            "title": "Natural Persons Who Are Associated Persons of Broker-Dealers",
+            "start_index": 340,
+            "end_index": 341
+          }
+        ]
+      },
+      {
+        "title": "Summary of Collections of Information",
+        "start_index": 341,
+        "end_index": 342,
+        "child_nodes": [
+          {
+            "title": "Conflict of Interest Obligations",
+            "start_index": 342,
+            "end_index": 353
+          },
+          {
+            "title": "Disclosure Obligation",
+            "start_index": 353,
+            "end_index": 370
+          },
+          {
+            "title": "Care Obligation",
+            "start_index": 370,
+            "end_index": 370
+          },
+          {
+            "title": "Record-Making and Recordkeeping Obligations",
+            "start_index": 370,
+            "end_index": 375
+          }
+        ]
+      },
+      {
+        "title": "Collection of Information is Mandatory",
+        "start_index": 375,
+        "end_index": 375
+      },
+      {
+        "title": "Confidentiality",
+        "start_index": 375,
+        "end_index": 376
+      },
+      {
+        "title": "Request for Comment",
+        "start_index": 376,
+        "end_index": 377
+      }
+    ]
+  },
+  {
+    "title": "SMALL BUSINESS REGULATORY ENFORCEMENT FAIRNESS ACT",
+    "start_index": 377,
+    "end_index": 378
+  },
+  {
+    "title": "INITIAL REGULATORY FLEXIBILITY ACT ANALYSIS",
+    "start_index": 378,
+    "end_index": 379,
+    "child_nodes": [
+      {
+        "title": "Reasons for and Objectives of the Proposed Action",
+        "start_index": 379,
+        "end_index": 381
+      },
+      {
+        "title": "Legal Basis",
+        "start_index": 381,
+        "end_index": 381
+      },
+      {
+        "title": "Small Entities Subject to the Proposed Rule",
+        "start_index": 381,
+        "end_index": 382
+      },
+      {
+        "title": "Projected Compliance Requirements of the Proposed Rule for Small Entities",
+        "start_index": 382,
+        "end_index": 383,
+        "child_nodes": [
+          {
+            "title": "Conflict of Interest Obligations",
+            "start_index": 383,
+            "end_index": 386
+          },
+          {
+            "title": "Disclosure Obligations",
+            "start_index": 387,
+            "end_index": 394
+          },
+          {
+            "title": "Obligation to Exercise Reasonable Diligence, Care, Skill and Prudence",
+            "start_index": 394,
+            "end_index": 394
+          },
+          {
+            "title": "Record-Making and Recordkeeping Obligations",
+            "start_index": 394,
+            "end_index": 397
+          }
+        ]
+      },
+      {
+        "title": "Duplicative, Overlapping, or Conflicting Federal Rules",
+        "start_index": 397,
+        "end_index": 398
+      },
+      {
+        "title": "Significant Alternatives",
+        "start_index": 398,
+        "end_index": 401,
+        "child_nodes": [
+          {
+            "title": "Disclosure-Only Alternative",
+            "start_index": 401,
+            "end_index": 401
+          },
+          {
+            "title": "Principles-Based Alternative",
+            "start_index": 401,
+            "end_index": 402
+          },
+          {
+            "title": "Enhanced Standards Akin to BIC Exemption",
+            "start_index": 402,
+            "end_index": 403
+          }
+        ]
+      },
+      {
+        "title": "General Request for Comment",
+        "start_index": 403,
+        "end_index": 403
+      }
+    ]
+  },
+  {
+    "title": "STATUTORY AUTHORITY AND TEXT OF PROPOSED RULE",
+    "start_index": 403,
+    "end_index": 408
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Preface",
+    "start_index": 1,
+    "end_index": 2
+  },
+  {
+    "title": "Introduction",
+    "start_index": 2,
+    "end_index": 6
+  },
+  {
+    "title": "Interpretation and Application",
+    "start_index": 6,
+    "end_index": 8,
+    "child_nodes": [
+      {
+        "title": "Historical Context and Legislative History",
+        "start_index": 8,
+        "end_index": 10
+      },
+      {
+        "title": "Scope of the Solely Incidental Prong of the Broker-Dealer Exclusion",
+        "start_index": 10,
+        "end_index": 14
+      },
+      {
+        "title": "Guidance on Applying the Interpretation of the Solely Incidental Prong",
+        "start_index": 14,
+        "end_index": 22
+      }
+    ]
+  },
+  {
+    "title": "Economic Considerations",
+    "start_index": 22,
+    "end_index": 22,
+    "child_nodes": [
+      {
+        "title": "Background",
+        "start_index": 22,
+        "end_index": 23
+      },
+      {
+        "title": "Potential Economic Effects",
+        "start_index": 23,
+        "end_index": 28
+      }
+    ]
+  }
+]

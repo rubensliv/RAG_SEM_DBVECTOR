@@ -1,0 +1,460 @@
+[
+  {
+    "title": "Preface",
+    "start_index": 1,
+    "end_index": 4
+  },
+  {
+    "title": "About the Federal Reserve",
+    "start_index": 5,
+    "end_index": 7
+  },
+  {
+    "title": "Overview",
+    "start_index": 7,
+    "end_index": 8
+  },
+  {
+    "title": "Monetary Policy and Economic Developments",
+    "start_index": 9,
+    "end_index": 9,
+    "child_nodes": [
+      {
+        "title": "March 2024 Summary",
+        "start_index": 9,
+        "end_index": 14
+      },
+      {
+        "title": "June 2023 Summary",
+        "start_index": 15,
+        "end_index": 20
+      }
+    ]
+  },
+  {
+    "title": "Financial Stability",
+    "start_index": 21,
+    "end_index": 21,
+    "child_nodes": [
+      {
+        "title": "Monitoring Financial Vulnerabilities",
+        "start_index": 22,
+        "end_index": 28
+      },
+      {
+        "title": "Domestic and International Cooperation and Coordination",
+        "start_index": 28,
+        "end_index": 31
+      }
+    ]
+  },
+  {
+    "title": "Supervision and Regulation",
+    "start_index": 31,
+    "end_index": 31,
+    "child_nodes": [
+      {
+        "title": "Supervised and Regulated Institutions",
+        "start_index": 32,
+        "end_index": 35
+      },
+      {
+        "title": "Supervisory Developments",
+        "start_index": 35,
+        "end_index": 54
+      },
+      {
+        "title": "Regulatory Developments",
+        "start_index": 55,
+        "end_index": 59
+      }
+    ]
+  },
+  {
+    "title": "Payment System and Reserve Bank Oversight",
+    "start_index": 59,
+    "end_index": 59,
+    "child_nodes": [
+      {
+        "title": "Payment Services to Depository and Other Institutions",
+        "start_index": 60,
+        "end_index": 65
+      },
+      {
+        "title": "Currency and Coin",
+        "start_index": 66,
+        "end_index": 68
+      },
+      {
+        "title": "Fiscal Agency and Government Depository Services",
+        "start_index": 69,
+        "end_index": 72
+      },
+      {
+        "title": "Evolutions and Improvements to the System",
+        "start_index": 72,
+        "end_index": 75
+      },
+      {
+        "title": "Oversight of Federal Reserve Banks",
+        "start_index": 75,
+        "end_index": 81
+      },
+      {
+        "title": "Pro Forma Financial Statements for Federal Reserve Priced Services",
+        "start_index": 82,
+        "end_index": 88
+      }
+    ]
+  },
+  {
+    "title": "Consumer and Community Affairs",
+    "start_index": 89,
+    "end_index": 89,
+    "child_nodes": [
+      {
+        "title": "Consumer Compliance Supervision",
+        "start_index": 89,
+        "end_index": 101
+      },
+      {
+        "title": "Consumer Laws and Regulations",
+        "start_index": 101,
+        "end_index": 102
+      },
+      {
+        "title": "Consumer Research and Analysis of Emerging Issues and Policy",
+        "start_index": 102,
+        "end_index": 105
+      },
+      {
+        "title": "Community Development",
+        "start_index": 105,
+        "end_index": 106
+      }
+    ]
+  },
+  {
+    "title": "Appendixes",
+    "start_index": 107,
+    "end_index": 108
+  },
+  {
+    "title": "Federal Reserve System Organization",
+    "start_index": 109,
+    "end_index": 109,
+    "child_nodes": [
+      {
+        "title": "Board of Governors",
+        "start_index": 109,
+        "end_index": 116
+      },
+      {
+        "title": "Federal Open Market Committee",
+        "start_index": 117,
+        "end_index": 118
+      },
+      {
+        "title": "Board of Governors Advisory Councils",
+        "start_index": 119,
+        "end_index": 122
+      },
+      {
+        "title": "Federal Reserve Banks and Branches",
+        "start_index": 123,
+        "end_index": 146
+      }
+    ]
+  },
+  {
+    "title": "Minutes of Federal Open Market Committee Meetings",
+    "start_index": 147,
+    "end_index": 147,
+    "child_nodes": [
+      {
+        "title": "Meeting Minutes",
+        "start_index": 147,
+        "end_index": 149
+      }
+    ]
+  },
+  {
+    "title": "Federal Reserve System Audits",
+    "start_index": 149,
+    "end_index": 149,
+    "child_nodes": [
+      {
+        "title": "Office of Inspector General Activities",
+        "start_index": 149,
+        "end_index": 151
+      },
+      {
+        "title": "Government Accountability Office Reviews",
+        "start_index": 151,
+        "end_index": 153
+      }
+    ]
+  },
+  {
+    "title": "Federal Reserve System Budgets",
+    "start_index": 153,
+    "end_index": 153,
+    "child_nodes": [
+      {
+        "title": "System Budgets Overview",
+        "start_index": 153,
+        "end_index": 157
+      },
+      {
+        "title": "Board of Governors Budgets",
+        "start_index": 157,
+        "end_index": 163
+      },
+      {
+        "title": "Federal Reserve Banks Budgets",
+        "start_index": 163,
+        "end_index": 169
+      },
+      {
+        "title": "Currency Budget",
+        "start_index": 169,
+        "end_index": 174
+      }
+    ]
+  },
+  {
+    "title": "Record of Policy Actions of the Board of Governors",
+    "start_index": 175,
+    "end_index": 175,
+    "child_nodes": [
+      {
+        "title": "Rules and Regulations",
+        "start_index": 175,
+        "end_index": 176
+      },
+      {
+        "title": "Policy Statements and Other Actions",
+        "start_index": 177,
+        "end_index": 181
+      },
+      {
+        "title": "Discount Rates for Depository Institutions in 2023",
+        "start_index": 181,
+        "end_index": 183
+      },
+      {
+        "title": "The Board of Governors and the Government Performance and Results Act",
+        "start_index": 184,
+        "end_index": 184
+      }
+    ]
+  },
+  {
+    "title": "Litigation",
+    "start_index": 185,
+    "end_index": 185,
+    "child_nodes": [
+      {
+        "title": "Pending",
+        "start_index": 185,
+        "end_index": 186
+      },
+      {
+        "title": "Resolved",
+        "start_index": 186,
+        "end_index": 186
+      }
+    ]
+  },
+  {
+    "title": "Statistical Tables",
+    "start_index": 187,
+    "end_index": 187,
+    "child_nodes": [
+      {
+        "title": "Federal Reserve open market transactions, 2023",
+        "start_index": 187,
+        "end_index": 187,
+        "child_nodes": [
+          {
+            "title": "Federal Reserve open market transactions, 2023\u2014continued",
+            "start_index": 187,
+            "end_index": 188
+          }
+        ]
+      },
+      {
+        "title": "Federal Reserve Bank holdings of U.S. Treasury and federal agency securities, December 31, 2021\u201323",
+        "start_index": 189,
+        "end_index": 188,
+        "child_nodes": [
+          {
+            "title": "Federal Reserve Bank holdings of U.S. Treasury and federal agency securities, December 31, 2021\u201323\u2014continued",
+            "start_index": 189,
+            "end_index": 190
+          }
+        ]
+      },
+      {
+        "title": "Reserve requirements of depository institutions, December 31, 2023",
+        "start_index": 191,
+        "end_index": 191
+      },
+      {
+        "title": "Banking offices and banks affiliated with bank holding companies in the United States, December 31, 2022 and 2023",
+        "start_index": 192,
+        "end_index": 192
+      },
+      {
+        "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1984\u20132023 and month-end 2023",
+        "start_index": 193,
+        "end_index": 194,
+        "child_nodes": [
+          {
+            "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1984\u20132023 and month-end 2023\u2014continued",
+            "start_index": 194,
+            "end_index": 194
+          },
+          {
+            "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1984\u20132023 and month-end 2023\u2014continued",
+            "start_index": 195,
+            "end_index": 196
+          },
+          {
+            "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1984\u20132023 and month-end 2023\u2014continued",
+            "start_index": 196,
+            "end_index": 196
+          }
+        ]
+      },
+      {
+        "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1918\u20131983",
+        "start_index": 197,
+        "end_index": 198,
+        "child_nodes": [
+          {
+            "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1918\u20131983\u2014continued",
+            "start_index": 199,
+            "end_index": 198
+          },
+          {
+            "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1918\u20131983\u2014continued",
+            "start_index": 199,
+            "end_index": 198
+          },
+          {
+            "title": "Reserves of depository institutions, Federal Reserve Bank credit, and related items, year-end 1918\u20131983\u2014continued",
+            "start_index": 199,
+            "end_index": 200
+          }
+        ]
+      },
+      {
+        "title": "Principal assets and liabilities of insured commercial banks, by class of bank, June 30, 2023 and 2022",
+        "start_index": 201,
+        "end_index": 201
+      },
+      {
+        "title": "Initial margin requirements under Regulations T, U, and X",
+        "start_index": 202,
+        "end_index": 203
+      },
+      {
+        "title": "Statement of condition of the Federal Reserve Banks, by Bank, December 31, 2023 and 2022",
+        "start_index": 203,
+        "end_index": 206,
+        "child_nodes": [
+          {
+            "title": "Statement of condition of the Federal Reserve Banks, by Bank, December 31, 2023 and 2022\u2014continued",
+            "start_index": 206,
+            "end_index": 206
+          },
+          {
+            "title": "Statement of condition of the Federal Reserve Banks, by Bank, December 31, 2023 and 2022\u2014continued",
+            "start_index": 206,
+            "end_index": 206
+          },
+          {
+            "title": "Statement of condition of the Federal Reserve Banks, by Bank, December 31, 2023 and 2022\u2014continued",
+            "start_index": 206,
+            "end_index": 206
+          },
+          {
+            "title": "Statement of condition of the Federal Reserve Banks, by Bank, December 31, 2023 and 2022\u2014continued",
+            "start_index": 206,
+            "end_index": 206
+          },
+          {
+            "title": "Statement of condition of the Federal Reserve Banks, by Bank, December 31, 2023 and 2022\u2014continued",
+            "start_index": 206,
+            "end_index": 209
+          }
+        ]
+      },
+      {
+        "title": "Statement of condition of the Federal Reserve Banks, December 31, 2023 and 2022",
+        "start_index": 209,
+        "end_index": 210
+      },
+      {
+        "title": "Income and expenses of the Federal Reserve Banks, by Bank, 2023",
+        "start_index": 210,
+        "end_index": 211,
+        "child_nodes": [
+          {
+            "title": "Income and expenses of the Federal Reserve Banks, by Bank, 2023\u2014continued",
+            "start_index": 211,
+            "end_index": 212
+          },
+          {
+            "title": "Income and expenses of the Federal Reserve Banks, by Bank, 2023\u2014continued",
+            "start_index": 212,
+            "end_index": 212
+          },
+          {
+            "title": "Income and expenses of the Federal Reserve Banks, by Bank, 2023\u2014continued",
+            "start_index": 212,
+            "end_index": 214
+          }
+        ]
+      },
+      {
+        "title": "Income and expenses of the Federal Reserve Banks, 1914\u20132023",
+        "start_index": 214,
+        "end_index": 214,
+        "child_nodes": [
+          {
+            "title": "Income and expenses of the Federal Reserve Banks, 1914\u20132023\u2014continued",
+            "start_index": 214,
+            "end_index": 214
+          },
+          {
+            "title": "Income and expenses of the Federal Reserve Banks, 1914\u20132023\u2014continued",
+            "start_index": 214,
+            "end_index": 217
+          },
+          {
+            "title": "Income and expenses of the Federal Reserve Banks, 1914\u20132023\u2014continued",
+            "start_index": 217,
+            "end_index": 217
+          }
+        ]
+      },
+      {
+        "title": "Operations in principal departments of the Federal Reserve Banks, 2020\u201323",
+        "start_index": 218,
+        "end_index": 218
+      },
+      {
+        "title": "Number and annual salaries of officers and employees of the Federal Reserve Banks, December 31, 2023",
+        "start_index": 219,
+        "end_index": 220
+      },
+      {
+        "title": "Acquisition costs and net book value of the premises of the Federal Reserve Banks and Branches, December 31, 2023",
+        "start_index": 220,
+        "end_index": 222
+      }
+    ]
+  }
+]
