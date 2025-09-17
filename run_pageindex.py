@@ -4,6 +4,27 @@ import json
 from pageindex import *
 from pageindex.page_index_md import md_to_tree
 
+def print_tree_structure(structure, indent=0):
+    """Print the tree structure in a readable format"""
+    if isinstance(structure, dict):
+        for key, value in structure.items():
+            if key == 'nodes' and isinstance(value, list):
+                print("  " * indent + f"📁 {key}:")
+                for i, node in enumerate(value):
+                    print("  " * (indent + 1) + f"├─ Node {i+1}:")
+                    print_tree_structure(node, indent + 2)
+            elif key in ['title', 'summary'] and value:
+                print("  " * indent + f"📄 {key}: {value}")
+            elif key in ['node_id', 'start_index', 'end_index'] and value:
+                print("  " * indent + f"🔢 {key}: {value}")
+            elif isinstance(value, (dict, list)) and value:
+                print("  " * indent + f"📂 {key}:")
+                print_tree_structure(value, indent + 1)
+    elif isinstance(structure, list):
+        for i, item in enumerate(structure):
+            print("  " * indent + f"├─ Item {i+1}:")
+            print_tree_structure(item, indent + 1)
+
 if __name__ == "__main__":
     # Set up argument parser
     parser = argparse.ArgumentParser(description='Process PDF or Markdown document and generate structure')
@@ -77,6 +98,13 @@ if __name__ == "__main__":
             json.dump(toc_with_page_number, f, indent=2)
         
         print(f'Tree structure saved to: {output_file}')
+        
+        # Display the structure on screen
+        print('\n' + '='*80)
+        print('📋 ESTRUTURA GERADA:')
+        print('='*80)
+        print_tree_structure(toc_with_page_number)
+        print('='*80)
             
     elif args.md_path:
         # Validate Markdown file
@@ -131,3 +159,10 @@ if __name__ == "__main__":
             json.dump(toc_with_page_number, f, indent=2, ensure_ascii=False)
         
         print(f'Tree structure saved to: {output_file}')
+        
+        # Display the structure on screen
+        print('\n' + '='*80)
+        print('📋 ESTRUTURA GERADA:')
+        print('='*80)
+        print_tree_structure(toc_with_page_number)
+        print('='*80)
